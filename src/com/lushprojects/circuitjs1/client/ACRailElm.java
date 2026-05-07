@@ -1,7 +1,7 @@
 /*    
     Copyright (C) Paul Falstad and Iain Sharp
     
-    This file is part of CircuitJS1. test new
+    This file is part of CircuitJS1.
 
     CircuitJS1 is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
